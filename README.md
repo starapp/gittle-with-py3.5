@@ -1,5 +1,5 @@
 # gittle-with-py3.5
-# Gittle - Pythonic Git for Humans
+# this code is copy from FriendCode   fix some code to run on 3.5 thank for frindcode 
 
 Gittle is a high-level pure-python git library.
 It builds upon dulwich which provides most of the low-level machinery
